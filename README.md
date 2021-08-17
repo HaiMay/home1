@@ -20,7 +20,6 @@
 			  </td>
 		   </tr>
 		</table>
-		
 		<hr />
 		 <p>5 Buttermill Ave, concord, ON, CA, L4K 0J5</p>
 		 <p>+164999999</p>
