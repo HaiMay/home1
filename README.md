@@ -3,8 +3,7 @@
     <main> 
         <head> 
             <h1>May's Restaurant</h1>
-			      <hr />
-			      <link href="teststyles.css" rel="stylesheet" type="text/css" />
+			   <hr />
 		    </head>
 
 	    	<nav>
